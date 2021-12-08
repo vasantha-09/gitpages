@@ -1,3 +1,73 @@
-h1{
-    color: blue;
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+
+}
+ .sign-up-form{
+    width: 300px;
+    box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto;
+    text-align: center;
+}
+.sign-up-form h1{
+    margin-bottom: 30px;
+}
+.input-box{
+    
+    padding: 10px;
+    margin: 8px 0;
+    width:100% ;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: white;
+    background-color:royalblue;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+.input-dob{
+    padding: 5px;
+    
+    width:50%;
+    border: 1px solid #999;
+    
+}
+.input-date{
+    padding: 10px;
+    margin: 8px 0;
+    width:100% ;
+    border: 1px solid #999;
+    outline: none;
+}
+.tag{
+     color: green;
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    background-color:green;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+ 
 }
